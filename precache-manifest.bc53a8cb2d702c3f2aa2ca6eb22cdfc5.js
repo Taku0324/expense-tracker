@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/expense-tracker/static/media/test1.e616c1c3.jpg"
   },
   {
-    "revision": "4138e654e0d936874f958f1410c5dc8e",
+    "revision": "6ca7c6e4d2d23a7057f2e80788f653d7",
     "url": "/expense-tracker/index.html"
   }
 ];
